@@ -16,8 +16,8 @@
 | Mind your own business! [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Mind%20your%20own%20business!&op=translate "Ouvir") | Cuida da sua vida |
 | Busybodies [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Busybodies&op=translate "Ouvir") | Xeretas |
 | For God sake [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=For%20God%20sake&op=translate "Ouvir") | Pelo amor de Deus |
-| Easy peezy lemon squeeze [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Easy%20peezy%20lemon%20squeeze&op=translate "Ouvir") | Suave na nave |
-| Easy peezy japanese [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Easy%20peezy%20japanese&op=translate "Ouvir") | Suave na nave |
+| Easy peasy lemon squeezy [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Easy%20peasy%20lemon%20squeezy&op=translate "Ouvir") | Suave na nave |
+| Easy peasy japanese [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Easy%20peasy%20japanese&op=translate "Ouvir") | Suave na nave |
 | A piece of cake [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=A%20piece%20of%20cake&op=translate "Ouvir") | jeito antigo de dizer "Suave na nave" |
 | Howizithangin' dude? [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Howizithangin'%20dude?&op=translate "Ouvir") | E aí, mano? |
 | Beef [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Beef&op=translate "Ouvir") | Treta |
@@ -101,4 +101,3 @@
 | 1 Inch [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=1%20Inch&op=translate) | 1 Polegada (2.5 cm) |
 | 1 Yard [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=1%20Yard&op=translate) | 1 Jarda (91 cm) |
 | 1 Mile [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=1%20Mile&op=translate) | 1 Milha (1.609 mt) |
-
