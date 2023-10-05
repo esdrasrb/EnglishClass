@@ -2,7 +2,7 @@
 
 | English  | Português |
 | -------- | ------- |
-| Get hungry <a href="https://translate.google.com/?sl=en&tl=pt&text=Get%20hungry&op=translate" target="_blank">![Ouvir](./img/speaker.png)</a> | Ficar com fome |
+| Get hungry [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Get%20hungry&op=translate "Ouvir") | ficar com fome |
 | Staing hungry [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Stay%20hungry&op=translate "Ouvir") | permanecer com fome |
 | The boot and butt policy [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=The%20boot%20and%20butt%20policy&op=translate "Ouvir") | Pé na bunda |
 | Buttbuddy [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Buttbuddy&op=translate "Ouvir") | amigo do peito |
