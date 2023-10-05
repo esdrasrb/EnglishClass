@@ -46,7 +46,7 @@
 <br/><br/>
 
 # STRESS: Nouns, Verbs, Adjectives, Adverbs, Negatives and WH-question
-\***Dê ênfase nas frases para: *Substantivos, Verbos, Adjetivos, Advérbios, Negativos e Perguntas \*WH\****
+\***Dê ênfase nas frases para: *Substantivos, Verbos, Adjetivos, Advérbios, Negativos e Perguntas \*WH\*.***
 >> A - **Where** were you at **six o'*clock*** in the ***eve*ning**
 >> 
 >> B - **I** was at **work**
