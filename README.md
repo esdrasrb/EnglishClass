@@ -46,7 +46,7 @@
 <br/><br/>
 
 # STRESS: Nouns, Verbs, Adjectives, Adverbs, Negatives and WH-question
-#### *Dê ênfase nas frases para: **Substantivos, Verbos, Adjetivos, Advérbios, Negativos e Perguntas *WH***
+\***Dê ênfase nas frases para: *Substantivos, Verbos, Adjetivos, Advérbios, Negativos e Perguntas \*WH\****
 >> A - **Where** were you at **six o'*clock*** in the ***eve*ning**
 >> 
 >> B - **I** was at **work**
@@ -58,7 +58,7 @@
 <br/><br/>
 
 # DON'T STRESS: Pronouns, preposition, articles, Demonstratives, Auxiliares.
-*NÃO dê enfase nas frases para: **Pronomes, preposições, artigos, demonstrativos, auxiliares**.
+\***NÃO dê enfase nas frases para: *Pronomes, preposições, artigos, demonstrativos, auxiliares.***
 <br/><br/>
 
 # Traduções (ou adaptações mais próximas)
