@@ -2,10 +2,10 @@
 
 | English  | Português |
 | -------- | ------- |
-| Get hungry [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Get%20hungry&op=translate "Ouvir") | ficar com fome |
-| Staing hungry [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Stay%20hungry&op=translate "Ouvir") | permanecer com fome |
+| Get hungry [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Get%20hungry&op=translate "Ouvir") | Ficar com fome |
+| Staing hungry [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Stay%20hungry&op=translate "Ouvir") | Permanecer com fome |
 | The boot and butt policy [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=The%20boot%20and%20butt%20policy&op=translate "Ouvir") | Pé na bunda |
-| Buttbuddy [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Buttbuddy&op=translate "Ouvir") | amigo do peito |
+| Buttbuddy [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Buttbuddy&op=translate "Ouvir") | Amigo do peito |
 | She dresses tacky/cheesy [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=She%20dresses%20tacky/cheesy&op=translate "Ouvir") | Se veste brega, veste mal |
 | Killjoy [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Killjoy&op=translate "Ouvir") | Estraga prazeres |
 | Cock block [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Cock%20block&op=translate "Ouvir") | Empata foda |
@@ -101,3 +101,4 @@
 | 1 Inch [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=1%20Inch&op=translate) | 1 Polegada (2.5 cm) |
 | 1 Yard [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=1%20Yard&op=translate) | 1 Jarda (91 cm) |
 | 1 Mile [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=1%20Mile&op=translate) | 1 Milha (1.609 mt) |
+
