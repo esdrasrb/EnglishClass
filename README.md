@@ -42,6 +42,7 @@
 | Hit on [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Hit%20on&op=translate "Ouvir") | Chavecar |
 | Apple polisher [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Apple%20polisher&op=translate "Ouvir") | Puxa saco (jeito bonitinho de falar) |
 | Cock Sucker [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Cock%20Sucker&op=translate "Ouvir") | Puxa saco (pejotativo) |
+| Odd one out [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Odd%20one%20out&op=translate "Ouvir") | Fora do contexto |
 
 <br/><br/>
 
@@ -91,6 +92,7 @@
 | Treadmill [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Treadmill&op=translate "Ouvir") | Esteira de corrida |
 | Demonstrations [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Demonstrations&op=translate "Ouvir") | Manifestações |
 | Sentence stress [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Sentence%20stress&op=translate "Ouvir") | Acentuação |
+| Yawn [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Yawn&op=translate "Ouvir") | Bocejar |
 
 <br/><br/>
 
@@ -102,3 +104,12 @@
 | 1 Inch [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=1%20Inch&op=translate) | 1 Polegada (2.5 cm) |
 | 1 Yard [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=1%20Yard&op=translate) | 1 Jarda (91 cm) |
 | 1 Mile [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=1%20Mile&op=translate) | 1 Milha (1.609 mt) |
+
+<br/><br/>
+
+# Pronunciation *ED*
+\***Pronúncia da terminação *ED***
+<br/><br/>
+
+![Pronunciation ED](./img/pronunciation%20ED.jpg)
+
