@@ -42,7 +42,7 @@
 | Hit on [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Hit%20on&op=translate "Ouvir") | Chavecar |
 | Apple polisher [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Apple%20polisher&op=translate "Ouvir") | Puxa saco (jeito bonitinho de falar) |
 | Cock Sucker [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Cock%20Sucker&op=translate "Ouvir") | Puxa saco (pejotativo) |
-| Odd one out [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Odd%20one%20out&op=translate "Ouvir") | Fora do contexto |
+| Odd one out [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Odd%20one%20out&op=translate "Ouvir") | Fora do contexto / Estranho |
 
 <br/><br/>
 
