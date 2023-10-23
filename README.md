@@ -43,6 +43,7 @@
 | Apple polisher [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Apple%20polisher&op=translate "Ouvir") | Puxa saco (jeito bonitinho de falar) |
 | Cock Sucker [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Cock%20Sucker&op=translate "Ouvir") | Puxa saco (pejotativo) |
 | Odd one out [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Odd%20one%20out&op=translate "Ouvir") | Fora do contexto / Estranho |
+| As know as Pelé [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=As%20know%20as%20Pelé&op=translate "Ouvir") | Conhecido como Pelé |
 
 <br/><br/>
 
@@ -93,6 +94,8 @@
 | Demonstrations [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Demonstrations&op=translate "Ouvir") | Manifestações |
 | Sentence stress [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Sentence%20stress&op=translate "Ouvir") | Acentuação |
 | Yawn [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Yawn&op=translate "Ouvir") | Bocejar |
+| Cheat [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Cheat&op=translate "Ouvir") | Colar (como numa prova) |
+| Commencement Party [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Commencement%20Party&op=translate "Ouvir") | Festa de Formatura |
 
 <br/><br/>
 
