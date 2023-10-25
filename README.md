@@ -43,7 +43,7 @@
 | Apple polisher [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Apple%20polisher&op=translate "Ouvir") | Puxa saco (jeito bonitinho de falar) |
 | Cock Sucker [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Cock%20Sucker&op=translate "Ouvir") | Puxa saco (pejotativo) |
 | Odd one out [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Odd%20one%20out&op=translate "Ouvir") | Fora do contexto / Estranho |
-| As know as Pelé [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=As%20know%20as%20Pelé&op=translate "Ouvir") | Conhecido como Pelé |
+| As know as Pelé (a.k.a Pelé) [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=As%20know%20as%20Pelé&op=translate "Ouvir") | Conhecido como Pelé |
 
 <br/><br/>
 
