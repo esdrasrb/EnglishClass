@@ -44,6 +44,10 @@
 | Cock Sucker [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Cock%20Sucker&op=translate "Ouvir") | Puxa saco (pejotativo) |
 | Odd one out [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Odd%20one%20out&op=translate "Ouvir") | Fora do contexto / Estranho |
 | As know as Pelé (a.k.a Pelé) [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=As%20know%20as%20Pelé&op=translate "Ouvir") | Conhecido como Pelé |
+| Let's get down to business [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Let's%20get%20down%20to%20business&op=translate "Ouvir") | Vamos ao que interessa |
+| Let's get down to Figures [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Let's%20get%20down%20to%20Figures&op=translate "Ouvir") | Vamos aos números |
+| Peanuts [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Peanuts&op=translate "Ouvir") | Mixaria |
+
 
 <br/><br/>
 
