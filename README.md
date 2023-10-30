@@ -116,7 +116,7 @@
 | Toilet paper [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Toilet%20paper&op=translate "Ouvir") | Papel Higiênico |
 | Toilet and sink [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Toilet%20and%20sink&op=translate "Ouvir") | Privada e pia (no banheiro) |
 | Landing [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Landing&op=translate "Ouvir") | Aterrissagem |
-| Take off [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Take%20off&op=translate "Ouvir") | Partida (do avião) |
+| Take off [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Take%20off&op=translate "Ouvir") | Decolar |
 | Microwaves oven [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Microwaves%20oven&op=translate "Ouvir") | Forno de microondas |
 
 <br/><br/>
