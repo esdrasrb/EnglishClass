@@ -47,7 +47,17 @@
 | Let's get down to business [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Let's%20get%20down%20to%20business&op=translate "Ouvir") | Vamos ao que interessa |
 | Let's get down to Figures [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Let's%20get%20down%20to%20Figures&op=translate "Ouvir") | Vamos aos números |
 | Peanuts [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Peanuts&op=translate "Ouvir") | Mixaria |
-
+| UNION [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=UNION&op=translate "Ouvir") | Sindicato |
+| With booze! [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=With%20booze!&op=translate "Ouvir") | Com goró! |
+| Ass wiper [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Ass%20wiper&op=translate "Ouvir") | Papel Higiênico |
+| Ponytail [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Ponytail&op=translate "Ouvir") | Rabo de cavalo (cabelo) |
+| To get the swing of the stuff/ thing [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=To%20get%20the%20swing%20of%20the%20stuff/thing&op=translate "Ouvir") | Entender a coisa / pegar o balanço |
+| I dig it!! [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=I%20dig%20it!!&op=translate "Ouvir") | pegar o balanço |
+| So far so good [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=So%20far%20so%20good&op=translate "Ouvir") | Até agora tudo bem |
+| Where are you heading? [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Where%20are%20you%20heading?&op=translate "Ouvir") | Onde você esta indo? |
+| It dawn on me! [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=It%20dawn%20on%20me!&op=translate "Ouvir") | A ficha caiu! |
+| He's gonna stumble on [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=He's%20gonna%20stumble%20on&op=translate "Ouvir") | Ele vai tropeçar |
+| Candles and lighter [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Candles%20and%20lighter&op=translate "Ouvir") | Velas e isqueiros |
 
 <br/><br/>
 
@@ -100,6 +110,14 @@
 | Yawn [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Yawn&op=translate "Ouvir") | Bocejar |
 | Cheat [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Cheat&op=translate "Ouvir") | Colar (como numa prova) |
 | Commencement Party [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Commencement%20Party&op=translate "Ouvir") | Festa de Formatura |
+| Bathroom [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Bathroom&op=translate "Ouvir") | Banheiro (dentro de casa) |
+| Restroom [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Restroom&op=translate "Ouvir") | Banheiro (em lugares públicos) |
+| Washroom [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Washroom&op=translate "Ouvir") | Banheiro (no Canadá) |
+| Toilet paper [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Toilet%20paper&op=translate "Ouvir") | Papel Higiênico |
+| Toilet and sink [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Toilet%20and%20sink&op=translate "Ouvir") | Privada e pia (no banheiro) |
+| Landing [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Landing&op=translate "Ouvir") | Aterrissagem |
+| Take off [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Take%20off&op=translate "Ouvir") | Partida (do avião) |
+| Microwaves oven [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Microwaves%20oven&op=translate "Ouvir") | Forno de microondas |
 
 <br/><br/>
 
