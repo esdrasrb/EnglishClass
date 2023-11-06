@@ -2,8 +2,6 @@
 
 | English  | Português |
 | -------- | ------- |
-| Get hungry [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Get%20hungry&op=translate "Ouvir") | Ficar com fome |
-| Staing hungry [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Stay%20hungry&op=translate "Ouvir") | Permanecer com fome |
 | The boot and butt policy [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=The%20boot%20and%20butt%20policy&op=translate "Ouvir") | Pé na bunda |
 | Buttbuddy [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Buttbuddy&op=translate "Ouvir") | Amigo do peito |
 | She dresses tacky/cheesy [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=She%20dresses%20tacky/cheesy&op=translate "Ouvir") | Se veste brega, veste mal |
@@ -78,6 +76,8 @@
 
 | English  | Português |
 | -------- | -------  |
+| Get hungry [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Get%20hungry&op=translate "Ouvir") | Ficar com fome |
+| Staing hungry [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Stay%20hungry&op=translate "Ouvir") | Permanecer com fome |
 | Stockings [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Stockings&op=translate "Ouvir") | Meia calça |
 | Hood [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Hood&op=translate "Ouvir") | Gorro |
 | Barefoot [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Barefoot&op=translate "Ouvir") | Descalço |
