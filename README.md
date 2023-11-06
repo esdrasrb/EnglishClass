@@ -13,7 +13,7 @@
 | It's none of your business! [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=It's%20none%20of%20your%20business!&op=translate "Ouvir") | Não é da sua conta |
 | Mind your own business! [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Mind%20your%20own%20business!&op=translate "Ouvir") | Cuida da sua vida |
 | Busybodies [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Busybodies&op=translate "Ouvir") | Xeretas |
-| For God sake [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=For%20God%20sake&op=translate "Ouvir") | Pelo amor de Deus |
+| For God sake! [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=For%20God%20sake!&op=translate "Ouvir") | Pelo amor de Deus! |
 | Easy peasy lemon squeezy [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Easy%20peasy%20lemon%20squeezy&op=translate "Ouvir") | Suave na nave |
 | Easy peasy japanese [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Easy%20peasy%20japanese&op=translate "Ouvir") | Suave na nave |
 | A piece of cake [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=A%20piece%20of%20cake&op=translate "Ouvir") | jeito antigo de dizer "Suave na nave" |
