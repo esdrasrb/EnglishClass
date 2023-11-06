@@ -58,6 +58,8 @@
 | It dawn on me! [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=It%20dawn%20on%20me!&op=translate "Ouvir") | A ficha caiu! |
 | He's gonna stumble on [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=He's%20gonna%20stumble%20on&op=translate "Ouvir") | Ele vai tropeçar |
 | Candles and lighter [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Candles%20and%20lighter&op=translate "Ouvir") | Velas e isqueiros |
+| Old flame [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Old%20flame&op=translate "Ouvir") | Amor antigo |
+| A & W - Alive and Well [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Alive%20and%20Well&op=translate "Ouvir") | Vivo e bem |
 
 <br/><br/>
 
@@ -118,6 +120,14 @@
 | Landing [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Landing&op=translate "Ouvir") | Aterrissagem |
 | Take off [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Take%20off&op=translate "Ouvir") | Decolar |
 | Microwaves oven [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Microwaves%20oven&op=translate "Ouvir") | Forno de microondas |
+| i.e. -> id est -> That is [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=That is&op=translate "Ouvir") | Isto é |
+| e.g. -> Exampli Gratia -> Example Given [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Example%20Given&op=translate "Ouvir") | Por exemplo |
+| Roommates [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Roommates&op=translate "Ouvir") | Colegas de quarto |
+| Workmates [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Workmates%20oven&op=translate "Ouvir") | Colegas de trabalho |
+| Classmates [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Classmates%20oven&op=translate "Ouvir") | Colegas de classe |
+| Sublet [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Sublet&op=translate "Ouvir") | Sublocação |
+| Night shifts [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Night%20shifts&op=translate "Ouvir") | Turno noturno |
+| The 3 stooges [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=The%203%20stooges&op=translate "Ouvir") | Os 3 Patetas |
 
 <br/><br/>
 
