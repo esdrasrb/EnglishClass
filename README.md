@@ -123,8 +123,8 @@
 | i.e. -> id est -> That is [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=That%20is&op=translate "Ouvir") | Isto é |
 | e.g. -> Exampli Gratia -> Example Given [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Example%20Given&op=translate "Ouvir") | Por exemplo |
 | Roommates [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Roommates&op=translate "Ouvir") | Colegas de quarto |
-| Workmates [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Workmates%20oven&op=translate "Ouvir") | Colegas de trabalho |
-| Classmates [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Classmates%20oven&op=translate "Ouvir") | Colegas de classe |
+| Workmates [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Workmates&op=translate "Ouvir") | Colegas de trabalho |
+| Classmates [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Classmates&op=translate "Ouvir") | Colegas de classe |
 | Sublet [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Sublet&op=translate "Ouvir") | Sublocação |
 | Night shifts [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Night%20shifts&op=translate "Ouvir") | Turno noturno |
 | The 3 stooges [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=The%203%20stooges&op=translate "Ouvir") | Os 3 Patetas |
