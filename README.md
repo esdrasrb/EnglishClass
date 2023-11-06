@@ -120,7 +120,7 @@
 | Landing [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Landing&op=translate "Ouvir") | Aterrissagem |
 | Take off [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Take%20off&op=translate "Ouvir") | Decolar |
 | Microwaves oven [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Microwaves%20oven&op=translate "Ouvir") | Forno de microondas |
-| i.e. -> id est -> That is [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=That is&op=translate "Ouvir") | Isto é |
+| i.e. -> id est -> That is [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=That%20is&op=translate "Ouvir") | Isto é |
 | e.g. -> Exampli Gratia -> Example Given [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Example%20Given&op=translate "Ouvir") | Por exemplo |
 | Roommates [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Roommates&op=translate "Ouvir") | Colegas de quarto |
 | Workmates [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Workmates%20oven&op=translate "Ouvir") | Colegas de trabalho |
