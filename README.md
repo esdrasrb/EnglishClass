@@ -1,4 +1,4 @@
-# Expressões e Slangs (Gírias)
+# Expressões e Gírias (Slangs)
 
 | English  | Português |
 | -------- | ------- |
