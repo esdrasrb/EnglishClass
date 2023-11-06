@@ -22,11 +22,8 @@
 | Howizithangin' dude? [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Howizithangin'%20dude?&op=translate "Ouvir") | E aí, mano? |
 | Beef [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Beef&op=translate "Ouvir") | Treta |
 | He couldn't afford to pay [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=He%20couldn't%20afford%20to%20pay&op=translate "Ouvir") | Ele não poderia pagar por isso |
-| bump into [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=bump%20into&op=translate "Ouvir") | Se trombando |
-| He is a backpacker [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=He%20is%20a%20backpacker&op=translate "Ouvir") | Mochileiro |
-| bunking beds [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=bunking%20beds&op=translate "Ouvir") | Beliches |
-| Windbreaker [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Windbreaker&op=translate "Ouvir") | Colete / Jaqueta corta vento / Blusão |
-| Hangover [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Hangover&op=translate "Ouvir") | Ressaca |
+| Bump into [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Bump%20into&op=translate "Ouvir") | Se trombando |
+| He is a backpacker [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=He%20is%20a%20backpacker&op=translate "Ouvir") | Ele é mochileiro |
 | Take a leak [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Take%20a%20leak&op=translate "Ouvir") | Tirar água do joelho / Mijar |
 | Basketcase [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Basketcase&op=translate "Ouvir") | Caso perdido |
 | It serves you right! [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=It%20serves%20you%20right!&op=translate "Ouvir") | Bem feito! |
@@ -35,7 +32,7 @@
 | Chow [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Chow&op=translate "Ouvir") | Rango |
 | How about the chow, man? [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=How%20about%20the%20chow,%20man?&op=translate "Ouvir") | Como tá o rango, cara? |
 | Munchies [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Munchies&op=translate "Ouvir") | Larica |
-| one for the road [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=one%20for%20the%20road&op=translate "Ouvir") | Saideira |
+| One for the road [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=One%20for%20the%20road&op=translate "Ouvir") | Saideira |
 | Scratch my back! [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Scratch%20my%20back!&op=translate "Ouvir") | Me ajuda aí! |
 | Scratching [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Scratching&op=translate "Ouvir") | Coçando |
 | My bad! [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=My%20bad!&op=translate "Ouvir") | Foi mal! |
@@ -50,11 +47,9 @@
 | UNION [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=UNION&op=translate "Ouvir") | Sindicato |
 | With booze! [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=With%20booze!&op=translate "Ouvir") | Com goró! |
 | Ass wiper [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Ass%20wiper&op=translate "Ouvir") | Papel Higiênico |
-| Ponytail [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Ponytail&op=translate "Ouvir") | Rabo de cavalo (cabelo) |
 | To get the swing of the stuff/ thing [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=To%20get%20the%20swing%20of%20the%20stuff/thing&op=translate "Ouvir") | Entender a coisa / pegar o balanço |
-| I dig it!! [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=I%20dig%20it!!&op=translate "Ouvir") | pegar o balanço |
+| I dig it!! [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=I%20dig%20it!!&op=translate "Ouvir") | Pegar o balanço |
 | So far so good [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=So%20far%20so%20good&op=translate "Ouvir") | Até agora tudo bem |
-| Where are you heading? [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Where%20are%20you%20heading?&op=translate "Ouvir") | Onde você esta indo? |
 | It dawn on me! [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=It%20dawn%20on%20me!&op=translate "Ouvir") | A ficha caiu! |
 | He's gonna stumble on [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=He's%20gonna%20stumble%20on&op=translate "Ouvir") | Ele vai tropeçar |
 | Candles and lighter [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Candles%20and%20lighter&op=translate "Ouvir") | Velas e isqueiros |
@@ -106,6 +101,9 @@
 | All you can eat [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=All%20you%20can%20eat&op=translate "Ouvir") | Rodízio (coma o quanto puder) |
 | Double shift [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Double%20shift&op=translate "Ouvir") | Turno duplo |
 | Mousetrap [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Mousetrap&op=translate "Ouvir") | Armadilha de rato / Ratoeira |
+| Bunking beds [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Bunking%20beds&op=translate "Ouvir") | Beliches |
+| Windbreaker [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Windbreaker&op=translate "Ouvir") | Colete / Jaqueta corta vento / Blusão |
+| Hangover [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Hangover&op=translate "Ouvir") | Ressaca |
 | Treadmill [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Treadmill&op=translate "Ouvir") | Esteira de corrida |
 | Demonstrations [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Demonstrations&op=translate "Ouvir") | Manifestações |
 | Sentence stress [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Sentence%20stress&op=translate "Ouvir") | Acentuação |
@@ -119,7 +117,9 @@
 | Toilet and sink [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Toilet%20and%20sink&op=translate "Ouvir") | Privada e pia (no banheiro) |
 | Landing [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Landing&op=translate "Ouvir") | Aterrissagem |
 | Take off [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Take%20off&op=translate "Ouvir") | Decolar |
+| Ponytail [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Ponytail&op=translate "Ouvir") | Rabo de cavalo (cabelo) |
 | Microwaves oven [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Microwaves%20oven&op=translate "Ouvir") | Forno de microondas |
+| Where are you heading? [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Where%20are%20you%20heading?&op=translate "Ouvir") | Onde você esta indo? |
 | i.e. -> id est -> That is [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=That%20is&op=translate "Ouvir") | Isto é |
 | e.g. -> Exampli Gratia -> Example Given [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Example%20Given&op=translate "Ouvir") | Por exemplo |
 | Roommates [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Roommates&op=translate "Ouvir") | Colegas de quarto |
