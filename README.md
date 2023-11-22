@@ -146,12 +146,12 @@
 | Think about sth. [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Think%20about%20sth.&op=translate "Ouvir") | Pensar sobre alguma coisa |
 | Gadgets [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Gadgets&op=translate "Ouvir") | Bugigangas |
 | Corkscrew [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Corkscrew&op=translate "Ouvir") | Saca rolha |
-| Screw driver [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Screw%20driver&op=translate "Ouvir") | Chave de fenda |
+| Screwdriver [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Screwdriver&op=translate "Ouvir") | Chave de fenda |
 | Changing room [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Changing%20room&op=translate "Ouvir") | Provador |
 | Fitting room [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Fitting%20room&op=translate "Ouvir") | Provador |
 | Dressing room [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Dressing%20room&op=translate "Ouvir") | Vestiário |
-| Egg Plant [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Egg%20Plant&op=translate "Ouvir") | Beringela |
-| Garlic, cinamon, lemon, honey and ginger tea [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Garlic,%20cinamon,%20lemon,%20honey%20and%20ginger%20tea&op=translate "Ouvir") | Chá de Alho, canela, limão, mel e gengibre |
+| Eggplant [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Eggplant&op=translate "Ouvir") | Beringela |
+| Garlic, cinnamon, lemon, honey and ginger tea [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Garlic,%20cinamon,%20lemon,%20honey%20and%20ginger%20tea&op=translate "Ouvir") | Chá de Alho, canela, limão, mel e gengibre |
 | Midwife [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Midwife&op=translate "Ouvir") | Parteira |
 | Scissors [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Scissors&op=translate "Ouvir") | Tesoura |
 | Look up [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Look%20up&op=translate "Ouvir") | Consultar |
