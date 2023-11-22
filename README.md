@@ -53,6 +53,15 @@
 | Candles and lighter [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Candles%20and%20lighter&op=translate "Ouvir") | Velas e isqueiros |
 | Old flame [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Old%20flame&op=translate "Ouvir") | Amor antigo |
 | A & W - Alive and Well [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Alive%20and%20Well&op=translate "Ouvir") | Vivo e bem |
+| Chicken out [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Chicken%20out!&op=translate "Ouvir") | Amarelar |
+| Spinster [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Spinster&op=translate "Ouvir") | Solteirona |
+| To put a face into a name [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=To%20put%20a%20face%20into%20a%20name&op=translate "Ouvir") | Dar cara ao nome |
+| Pass away [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Pass%20away&op=translate "Ouvir") | Falecer |
+| Kick the bucket > Meet the ghost > Bite the dust [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Kick%20the%20bucket%20>%20Meet%20the%20ghost%20>%20Bite%20the%20dust&op=translate "Ouvir") | Morrer |
+| Mr. knows it all! [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Mr.%20knows%20it%20all!&op=translate "Ouvir") | Sr. Sabe Tudo! |
+| Mr. Smartass! [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Mr.%20Smartass!&op=translate "Ouvir") | Espertão |
+| Google question [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Google%20question&op=translate "Ouvir") | Pergunta rápida |
+
 
 <br/><br/>
 
@@ -128,6 +137,34 @@
 | Sublet [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Sublet&op=translate "Ouvir") | Sublocação |
 | Night shifts [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Night%20shifts&op=translate "Ouvir") | Turno noturno |
 | The 3 stooges [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=The%203%20stooges&op=translate "Ouvir") | Os 3 Patetas |
+| Dye your hair [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Dye%20your%20hair&op=translate "Ouvir") | Pintar o cabelo |
+| Ask somebody out [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Ask%20somebody%20out&op=translate "Ouvir") | Chamar pra sair |
+| To fall in love WITH sby [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=To%20fall%20in%20love%20WITH%20sby&op=translate "Ouvir") | Apaixonar-se por alguém |
+| SBY > somebody [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=SBY%20>%20somebody&op=translate "Ouvir") | Alguém |
+| S.O > someone [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=S.O%20>%20someone&op=translate "Ouvir") | Algum |
+| Think of Sby [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Think%20of%20Sby&op=translate "Ouvir") | Pensar sobre alguém |
+| Think about sth. [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Think%20about%20sth.&op=translate "Ouvir") | Pensar sobre alguma coisa |
+| Gadgets [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Gadgets&op=translate "Ouvir") | Bugigangas |
+| Corkscrew [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Corkscrew&op=translate "Ouvir") | Saca rolha |
+| Screw driver [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Screw%20driver&op=translate "Ouvir") | Chave de fenda |
+| Changing room [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Changing%20room&op=translate "Ouvir") | Provador |
+| Fitting room [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Fitting%20room&op=translate "Ouvir") | Provador |
+| Dressing room [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Dressing%20room&op=translate "Ouvir") | Vestiário |
+| Egg Plant [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Egg%20Plant&op=translate "Ouvir") | Beringela |
+| Garlic, cinamon, lemon, honey and ginger tea [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Garlic,%20cinamon,%20lemon,%20honey%20and%20ginger%20tea&op=translate "Ouvir") | Chá de Alho, canela, limão, mel e gengibre |
+| Midwife [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Midwife&op=translate "Ouvir") | Parteira |
+| Scissors [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Scissors&op=translate "Ouvir") | Tesoura |
+| Look up [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Look%20up&op=translate "Ouvir") | Consultar |
+| Look for [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Look%20for&op=translate "Ouvir") | Procurar algo perdido |
+| Look at [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Look%20at&op=translate "Ouvir") | Olhar para algum lugar |
+| Look down [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Look%20down&op=translate "Ouvir") | Olhar outra pessoa com despreso |
+| Means of transportation [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Means%20of%20transportation&op=translate "Ouvir") | Meio de Transporte |
+| Sunburn [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Sunburn&op=translate "Ouvir") | Queimadura de sol |
+| Suntain [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Suntain&op=translate "Ouvir") | Bronzeado |
+| I'm gonna get a tain [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=I'm%20gonna%20get%20a%20tain&op=translate "Ouvir") | Eu vou pegar um bronzeado |
+| Pun [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Pun&op=translate "Ouvir") | Um monte (de coisa) |
+| Departure [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Departure&op=translate "Ouvir") | Embarque |
+| Arrival [![Ouvir](./img/speaker.png)](https://translate.google.com/?sl=en&tl=pt&text=Arrival&op=translate "Ouvir") | Desembarque |
 
 <br/><br/>
 
